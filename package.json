@@ -1,8 +1,8 @@
 {
-  "name": "react-next",
-  "description": "Next.js template with TypeScript, Tailwind CSS, Biome, and Faker.js",
+  "name": "next-template",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
